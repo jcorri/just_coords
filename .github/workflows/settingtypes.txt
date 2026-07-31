@@ -1,0 +1,7 @@
+# Position-Direction-Biome is the Mode by default.
+# White is the Color by default.
+
+[just_coords settiings]
+
+coords_initial_mode (Initial Mode) enum Position-Direction-Biome Coordinates-hidden,Position-only,Position-Direction,Position-Direction-Biome
+coords_initial_color (Initial Color) enum White Cyan,Magenta,Red,White,Yellow
