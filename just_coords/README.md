@@ -6,14 +6,12 @@ This mod can display the player's coordinates (his POSITION, the DIRECTION he is
 Players can make these choices at any time using chat commands, without any privilege, and without leaving the game.
 
 The MODES
----------
     /coords-mode1  -> for hiding the coordinates
     /coords-mode2  -> for showing the POSITION only
     /coords-mode3  -> for showing the POSITION + DIRECTION
     /coords-mode4  -> for showing the POSITION + the DIRECTION + the BIOME
 	
 The COLORS
-----------
 	/coords-cyan
 	/coords-magenta
 	/coords-red
@@ -21,13 +19,11 @@ The COLORS
 	/coords-yellow
 	
 The FONT SIZES
---------------
 	/coords-normal  -> (the font size used by the game)
 	/coords-big  -> (125% of normal)
 	/coords-biggest  -> (150% of normal)
 
 The DISPLAY POSITIONS
----------------------
 	/coords-top
 	/coords-middle
 	/coords-bottom
