@@ -1,0 +1,12 @@
+# Default settings:
+#  - Position-Direction-Biome is the default mode.
+#  - White is the default color.
+#  - Normal is the default font size.
+#  - Bottom is the default display position.
+
+[just_coords settings]
+
+coords_initial_mode (Initial mode) enum Position-Direction-Biome Coordinates-hidden,Position-only,Position-Direction,Position-Direction-Biome
+coords_initial_color (Initial color) enum White Cyan,Magenta,Red,White,Yellow
+coords_initial_size (Initial size) enum Normal Normal,Big,Biggest
+coords_initial_position (Initial position) enum Bottom Top,Middle,Bottom
