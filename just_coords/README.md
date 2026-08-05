@@ -1,18 +1,18 @@
 just_coords
 ===========
 
-This mod can display the player's coordinates (his position, the direction he is looking at, and the name of the biome he is in), in four modes, in five colors, in three font sizes, and at three different locations on the left side of the screen.
+This mod can display the player's coordinates (his POSITION, the DIRECTION he is looking at, and the name of the BIOME he is in), in four MODES, in five COLORS, in three FONT SIZES, and at three different POSITIONS on the left side of the screen.
 
 Players can make these choices at any time using chat commands, without any privilege, and without leaving the game.
 
-The modes
+The MODES
 ---------
-    /coords-mode1 for hiding the coordinates
-    /coords-mode2 for showing the POSITION only
-    /coords-mode3 for showing the POSITION + DIRECTION
-    /coords-mode4 for showing the POSITION + the DIRECTION + the BIOME
+    /coords-mode1  -> for hiding the coordinates
+    /coords-mode2  -> for showing the POSITION only
+    /coords-mode3  -> for showing the POSITION + DIRECTION
+    /coords-mode4  -> for showing the POSITION + the DIRECTION + the BIOME
 	
-The colors
+The COLORS
 ----------
 	/coords-cyan
 	/coords-magenta
@@ -20,13 +20,13 @@ The colors
 	/coords-white
 	/coords-yellow
 	
-The font sizes
+The FONT SIZES
 --------------
-	/coords-normal (the font size used by the game)
-	/coords-big (125% of normal)
-	/coords-biggest (150% of normal)
+	/coords-normal  -> (the font size used by the game)
+	/coords-big  -> (125% of normal)
+	/coords-biggest  -> (150% of normal)
 
-The display positions
+The DISPLAY POSITIONS
 ---------------------
 	/coords-top
 	/coords-middle
