@@ -1,0 +1,66 @@
+# textdomain: just_coords
+
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=Konfigurowalny HUD wyświetlający pozycję, kierunek i biom gracza w wielu trybach, kolorach, rozmiarach i pozycjach.
+
+North=Północ
+East=Wschód
+South=Południe
+West=Zachód
+
+Loading...=Ładowanie...
+
+List of the just_coords commands:=Lista poleceń just_coords:
+/coords  → Show this list=/coords  → Pokaż tę listę
+/coords-mode1 → Hide coordinates=/coords-mode1 → Ukryj współrzędne
+/coords-mode2 → Show Position only=/coords-mode2 → Pokaż tylko POZYCJĘ
+/coords-mode3 → Show Position + Direction=/coords-mode3 → Pokaż POZYCJĘ + KIERUNEK
+/coords-mode4 → Show Position + Direction + Biome=/coords-mode4 → Pokaż POZYCJĘ + KIERUNEK + BIOM
+/coords-cyan → Set color to Cyan=/coords-cyan → Ustaw kolor Cyjan
+/coords-magenta → Set color to Magenta=/coords-magenta → Ustaw kolor Magenta
+/coords-red → Set color to Red=/coords-red → Ustaw kolor Czerwony
+/coords-white → Set color to White=/coords-white → Ustaw kolor Biały
+/coords-yellow → Set color to Yellow=/coords-yellow → Ustaw kolor Żółty
+/coords-normal → Set font size to Normal=/coords-normal → Normalny rozmiar czcionki
+/coords-big → Set font size to Big=/coords-big → Rozmiar 125%
+/coords-biggest → Set font size to Biggest=/coords-biggest → Rozmiar 150%
+/coords-top → Set display position to Top=/coords-top → Wyświetlaj u góry
+/coords-middle → Set display position to Middle=/coords-middle → Wyświetlaj na środku
+/coords-bottom → Set display position to Bottom=/coords-bottom → Wyświetlaj na dole
+
+Hide coordinates=Ukryj współrzędne
+Show Position only=Pokaż tylko pozycję
+Show Position + Direction=Pokaż pozycję + kierunek
+Show Position + Direction + Biome=Pokaż pozycję + kierunek + biom
+
+Coordinates hidden=Współrzędne ukryte
+Showing Position only=Wyświetlanie: tylko pozycja
+Showing Position + Direction=Wyświetlanie: pozycja + kierunek
+Showing Position + Direction + Biome=Wyświetlanie: pozycja + kierunek + biom
+
+Set coordinates color to Cyan=Ustaw kolor Cyjan
+Set coordinates color to Magenta=Ustaw kolor Magenta
+Set coordinates color to Red=Ustaw kolor Czerwony
+Set coordinates color to White=Ustaw kolor Biały
+Set coordinates color to Yellow=Ustaw kolor Żółty
+
+Coordinates color set to Cyan=Kolor Cyjan ustawiony
+Coordinates color set to Magenta=Kolor Magenta ustawiony
+Coordinates color set to Red=Kolor Czerwony ustawiony
+Coordinates color set to White=Kolor Biały ustawiony
+Coordinates color set to Yellow=Kolor Żółty ustawiony
+
+Set font size to Normal=Normalny rozmiar czcionki
+Set font size to Big=Rozmiar 125%
+Set font size to Biggest=Rozmiar 150%
+
+Font size set to Normal=Ustawiono normalny rozmiar
+Font size set to Big=Ustawiono rozmiar 125%
+Font size set to Biggest=Ustawiono rozmiar 150%
+
+Set display position to Top=Wyświetlaj u góry
+Set display position to Middle=Wyświetlaj na środku
+Set display position to Bottom=Wyświetlaj na dole
+
+Display position set to Top=Wyświetlanie u góry
+Display position set to Middle=Wyświetlanie na środku
+Display position set to Bottom=Wyświetlanie na dole

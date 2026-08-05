@@ -1,0 +1,66 @@
+# textdomain: just_coords
+
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=一个可配置的 HUD，可在多种模式、颜色、大小和位置显示玩家的坐标、方向和生物群系。
+
+North=北
+East=东
+South=南
+West=西
+
+Loading...=加载中…
+
+List of the just_coords commands:=just_coords 命令列表：
+/coords  → Show this list=/coords  → 显示此列表
+/coords-mode1 → Hide coordinates=/coords-mode1 → 隐藏坐标
+/coords-mode2 → Show Position only=/coords-mode2 → 仅显示位置
+/coords-mode3 → Show Position + Direction=/coords-mode3 → 显示位置 + 方向
+/coords-mode4 → Show Position + Direction + Biome=/coords-mode4 → 显示位置 + 方向 + 生物群系
+/coords-cyan → Set color to Cyan=/coords-cyan → 设置颜色为青色
+/coords-magenta → Set color to Magenta=/coords-magenta → 设置颜色为洋红
+/coords-red → Set color to Red=/coords-red → 设置颜色为红色
+/coords-white → Set color to White=/coords-white → 设置颜色为白色
+/coords-yellow → Set color to Yellow=/coords-yellow → 设置颜色为黄色
+/coords-normal → Set font size to Normal=/coords-normal → 正常字体大小
+/coords-big → Set font size to Big=/coords-big → 字体大小 125%
+/coords-biggest → Set font size to Biggest=/coords-biggest → 字体大小 150%
+/coords-top → Set display position to Top=/coords-top → 显示在顶部
+/coords-middle → Set display position to Middle=/coords-middle → 显示在中间
+/coords-bottom → Set display position to Bottom=/coords-bottom → 显示在底部
+
+Hide coordinates=隐藏坐标
+Show Position only=仅显示位置
+Show Position + Direction=显示位置 + 方向
+Show Position + Direction + Biome=显示位置 + 方向 + 生物群系
+
+Coordinates hidden=坐标已隐藏
+Showing Position only=正在显示：仅位置
+Showing Position + Direction=正在显示：位置 + 方向
+Showing Position + Direction + Biome=正在显示：位置 + 方向 + 生物群系
+
+Set coordinates color to Cyan=设置颜色为青色
+Set coordinates color to Magenta=设置颜色为洋红
+Set coordinates color to Red=设置颜色为红色
+Set coordinates color to White=设置颜色为白色
+Set coordinates color to Yellow=设置颜色为黄色
+
+Coordinates color set to Cyan=已应用青色
+Coordinates color set to Magenta=已应用洋红
+Coordinates color set to Red=已应用红色
+Coordinates color set to White=已应用白色
+Coordinates color set to Yellow=已应用黄色
+
+Set font size to Normal=正常字体大小
+Set font size to Big=字体大小 125%
+Set font size to Biggest=字体大小 150%
+
+Font size set to Normal=已应用正常字体大小
+Font size set to Big=已应用 125% 字体大小
+Font size set to Biggest=已应用 150% 字体大小
+
+Set display position to Top=显示在顶部
+Set display position to Middle=显示在中间
+Set display position to Bottom=显示在底部
+
+Display position set to Top=已设置为顶部显示
+Display position set to Middle=已设置为中间显示
+Display position set to Bottom=已设置为底部显示

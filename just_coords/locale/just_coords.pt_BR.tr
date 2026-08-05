@@ -1,0 +1,66 @@
+# textdomain: just_coords
+
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=Um HUD configurável que exibe a posição, direção e bioma do jogador em vários modos, cores, tamanhos e posições.
+
+North=Norte
+East=Leste
+South=Sul
+West=Oeste
+
+Loading...=Carregando...
+
+List of the just_coords commands:=Lista de comandos do just_coords:
+/coords  → Show this list=/coords  → Mostrar esta lista
+/coords-mode1 → Hide coordinates=/coords-mode1 → Ocultar coordenadas
+/coords-mode2 → Show Position only=/coords-mode2 → Mostrar apenas a POSIÇÃO
+/coords-mode3 → Show Position + Direction=/coords-mode3 → Mostrar POSIÇÃO + DIREÇÃO
+/coords-mode4 → Show Position + Direction + Biome=/coords-mode4 → Mostrar POSIÇÃO + DIREÇÃO + BIOMA
+/coords-cyan → Set color to Cyan=/coords-cyan → Cor Ciano
+/coords-magenta → Set color to Magenta=/coords-magenta → Cor Magenta
+/coords-red → Set color to Red=/coords-red → Cor Vermelha
+/coords-white → Set color to White=/coords-white → Cor Branca
+/coords-yellow → Set color to Yellow=/coords-yellow → Cor Amarela
+/coords-normal → Set font size to Normal=/coords-normal → Tamanho normal
+/coords-big → Set font size to Big=/coords-big → Tamanho 125 %
+/coords-biggest → Set font size to Biggest=/coords-biggest → Tamanho 150 %
+/coords-top → Set display position to Top=/coords-top → Mostrar no topo
+/coords-middle → Set display position to Middle=/coords-middle → Mostrar no meio
+/coords-bottom → Set display position to Bottom=/coords-bottom → Mostrar embaixo
+
+Hide coordinates=Ocultar coordenadas
+Show Position only=Mostrar apenas a posição
+Show Position + Direction=Mostrar posição + direção
+Show Position + Direction + Biome=Mostrar posição + direção + bioma
+
+Coordinates hidden=Coordenadas ocultadas
+Showing Position only=Mostrando apenas a posição
+Showing Position + Direction=Mostrando posição + direção
+Showing Position + Direction + Biome=Mostrando posição + direção + bioma
+
+Set coordinates color to Cyan=Cor Ciano
+Set coordinates color to Magenta=Cor Magenta
+Set coordinates color to Red=Cor Vermelha
+Set coordinates color to White=Cor Branca
+Set coordinates color to Yellow=Cor Amarela
+
+Coordinates color set to Cyan=Cor Ciano aplicada
+Coordinates color set to Magenta=Cor Magenta aplicada
+Coordinates color set to Red=Cor Vermelha aplicada
+Coordinates color set to White=Cor Branca aplicada
+Coordinates color set to Yellow=Cor Amarela aplicada
+
+Set font size to Normal=Tamanho normal
+Set font size to Big=Tamanho 125 %
+Set font size to Biggest=Tamanho 150 %
+
+Font size set to Normal=Tamanho normal aplicado
+Font size set to Big=Tamanho 125 % aplicado
+Font size set to Biggest=Tamanho 150 % aplicado
+
+Set display position to Top=Mostrar no topo
+Set display position to Middle=Mostrar no meio
+Set display position to Bottom=Mostrar embaixo
+
+Display position set to Top=Exibido no topo
+Display position set to Middle=Exibido no meio
+Display position set to Bottom=Exibido embaixo

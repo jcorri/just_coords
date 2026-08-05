@@ -1,0 +1,66 @@
+# textdomain: just_coords
+
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=Ein konfigurierbares HUD, das die Position, Blickrichtung und das Biom des Spielers in mehreren Modi, Farben, Größen und Positionen anzeigt.
+
+North=Norden
+East=Osten
+South=Süden
+West=Westen
+
+Loading...=Laden...
+
+List of the just_coords commands:=Liste der just_coords-Befehle:
+/coords  → Show this list=/coords  → Diese Liste anzeigen
+/coords-mode1 → Hide coordinates=/coords-mode1 → Koordinaten ausblenden
+/coords-mode2 → Show Position only=/coords-mode2 → Nur Position anzeigen
+/coords-mode3 → Show Position + Direction=/coords-mode3 → Position + Richtung anzeigen
+/coords-mode4 → Show Position + Direction + Biome=/coords-mode4 → Position + Richtung + Biom anzeigen
+/coords-cyan → Set color to Cyan=/coords-cyan → Farbe Cyan setzen
+/coords-magenta → Set color to Magenta=/coords-magenta → Farbe Magenta setzen
+/coords-red → Set color to Red=/coords-red → Farbe Rot setzen
+/coords-white → Set color to White=/coords-white → Farbe Weiß setzen
+/coords-yellow → Set color to Yellow=/coords-yellow → Farbe Gelb setzen
+/coords-normal → Set font size to Normal=/coords-normal → Normale Schriftgröße
+/coords-big → Set font size to Big=/coords-big → 125 % Schriftgröße
+/coords-biggest → Set font size to Biggest=/coords-biggest → 150 % Schriftgröße
+/coords-top → Set display position to Top=/coords-top → Anzeige oben
+/coords-middle → Set display position to Middle=/coords-middle → Anzeige mittig
+/coords-bottom → Set display position to Bottom=/coords-bottom → Anzeige unten
+
+Hide coordinates=Koordinaten ausblenden
+Show Position only=Nur Position anzeigen
+Show Position + Direction=Position + Richtung anzeigen
+Show Position + Direction + Biome=Position + Richtung + Biom anzeigen
+
+Coordinates hidden=Koordinaten ausgeblendet
+Showing Position only=Zeige nur Position
+Showing Position + Direction=Zeige Position + Richtung
+Showing Position + Direction + Biome=Zeige Position + Richtung + Biom
+
+Set coordinates color to Cyan=Farbe Cyan setzen
+Set coordinates color to Magenta=Farbe Magenta setzen
+Set coordinates color to Red=Farbe Rot setzen
+Set coordinates color to White=Farbe Weiß setzen
+Set coordinates color to Yellow=Farbe Gelb setzen
+
+Coordinates color set to Cyan=Farbe Cyan angewendet
+Coordinates color set to Magenta=Farbe Magenta angewendet
+Coordinates color set to Red=Farbe Rot angewendet
+Coordinates color set to White=Farbe Weiß angewendet
+Coordinates color set to Yellow=Farbe Gelb angewendet
+
+Set font size to Normal=Normale Schriftgröße
+Set font size to Big=125 % Schriftgröße
+Set font size to Biggest=150 % Schriftgröße
+
+Font size set to Normal=Normale Schriftgröße angewendet
+Font size set to Big=125 % Schriftgröße angewendet
+Font size set to Biggest=150 % Schriftgröße angewendet
+
+Set display position to Top=Anzeige oben
+Set display position to Middle=Anzeige mittig
+Set display position to Bottom=Anzeige unten
+
+Display position set to Top=Anzeige oben angewendet
+Display position set to Middle=Anzeige mittig angewendet
+Display position set to Bottom=Anzeige unten angewendet

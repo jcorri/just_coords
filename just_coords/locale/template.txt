@@ -1,0 +1,78 @@
+# textdomain: just_coords
+
+# Mod description
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=
+
+# Cardinal directions
+North=
+East=
+South=
+West=
+
+# HUD loading
+Loading...=
+
+# Help command
+List of the just_coords commands:=
+/coords  → Show this list=
+/coords-mode1 → Hide coordinates=
+/coords-mode2 → Show Position only=
+/coords-mode3 → Show Position + Direction=
+/coords-mode4 → Show Position + Direction + Biome=
+/coords-cyan → Set color to Cyan=
+/coords-magenta → Set color to Magenta=
+/coords-red → Set color to Red=
+/coords-white → Set color to White=
+/coords-yellow → Set color to Yellow=
+/coords-normal → Set font size to Normal=
+/coords-big → Set font size to Big=
+/coords-biggest → Set font size to Biggest=
+/coords-top → Set display position to Top=
+/coords-middle → Set display position to Middle=
+/coords-bottom → Set display position to Bottom=
+
+# Mode change (commands)
+Hide coordinates=
+Show Position only=
+Show Position + Direction=
+Show Position + Direction + Biome=
+
+# Mode change (feedback)
+Coordinates hidden=
+Showing Position only=
+Showing Position + Direction=
+Showing Position + Direction + Biome=
+
+# Color change (commands)
+Set coordinates color to Cyan=
+Set coordinates color to Magenta=
+Set coordinates color to Red=
+Set coordinates color to White=
+Set coordinates color to Yellow=
+
+# Color change (feedback)
+Coordinates color set to Cyan=
+Coordinates color set to Magenta=
+Coordinates color set to Red=
+Coordinates color set to White=
+Coordinates color set to Yellow=
+
+# Font size change (commands)
+Set font size to Normal=
+Set font size to Big=
+Set font size to Biggest=
+
+# Font size change (feedback)
+Font size set to Normal=
+Font size set to Big=
+Font size set to Biggest=
+
+# Display position change (commands)
+Set display position to Top=
+Set display position to Middle=
+Set display position to Bottom=
+
+# Display position change (feedback)
+Display position set to Top=
+Display position set to Middle=
+Display position set to Bottom=

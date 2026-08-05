@@ -1,0 +1,66 @@
+# textdomain: just_coords
+
+A configurable HUD that displays the player's position, direction, and biome in multiple modes, colors, sizes, and positions.=Настраиваемый HUD, отображающий позицию, направление взгляда и биом игрока в различных режимах, цветах, размерах и положениях.
+
+North=Север
+East=Восток
+South=Юг
+West=Запад
+
+Loading...=Загрузка...
+
+List of the just_coords commands:=Список команд just_coords:
+/coords  → Show this list=/coords  → Показать этот список
+/coords-mode1 → Hide coordinates=/coords-mode1 → Скрыть координаты
+/coords-mode2 → Show Position only=/coords-mode2 → Показать только ПОЗИЦИЮ
+/coords-mode3 → Show Position + Direction=/coords-mode3 → Показать ПОЗИЦИЮ + НАПРАВЛЕНИЕ
+/coords-mode4 → Show Position + Direction + Biome=/coords-mode4 → Показать ПОЗИЦИЮ + НАПРАВЛЕНИЕ + БИОМ
+/coords-cyan → Set color to Cyan=/coords-cyan → Цвет: Голубой
+/coords-magenta → Set color to Magenta=/coords-magenta → Цвет: Пурпурный
+/coords-red → Set color to Red=/coords-red → Цвет: Красный
+/coords-white → Set color to White=/coords-white → Цвет: Белый
+/coords-yellow → Set color to Yellow=/coords-yellow → Цвет: Жёлтый
+/coords-normal → Set font size to Normal=/coords-normal → Обычный размер текста
+/coords-big → Set font size to Big=/coords-big → Размер 125%
+/coords-biggest → Set font size to Biggest=/coords-biggest → Размер 150%
+/coords-top → Set display position to Top=/coords-top → Показать сверху
+/coords-middle → Set display position to Middle=/coords-middle → Показать по центру
+/coords-bottom → Set display position to Bottom=/coords-bottom → Показать снизу
+
+Hide coordinates=Скрыть координаты
+Show Position only=Показать только позицию
+Show Position + Direction=Показать позицию + направление
+Show Position + Direction + Biome=Показать позицию + направление + биом
+
+Coordinates hidden=Координаты скрыты
+Showing Position only=Отображение: только позиция
+Showing Position + Direction=Отображение: позиция + направление
+Showing Position + Direction + Biome=Отображение: позиция + направление + биом
+
+Set coordinates color to Cyan=Цвет: Голубой
+Set coordinates color to Magenta=Цвет: Пурпурный
+Set coordinates color to Red=Цвет: Красный
+Set coordinates color to White=Цвет: Белый
+Set coordinates color to Yellow=Цвет: Жёлтый
+
+Coordinates color set to Cyan=Голубой цвет установлен
+Coordinates color set to Magenta=Пурпурный цвет установлен
+Coordinates color set to Red=Красный цвет установлен
+Coordinates color set to White=Белый цвет установлен
+Coordinates color set to Yellow=Жёлтый цвет установлен
+
+Set font size to Normal=Обычный размер текста
+Set font size to Big=Размер 125%
+Set font size to Biggest=Размер 150%
+
+Font size set to Normal=Обычный размер установлен
+Font size set to Big=Размер 125% установлен
+Font size set to Biggest=Размер 150% установлен
+
+Set display position to Top=Показать сверху
+Set display position to Middle=Показать по центру
+Set display position to Bottom=Показать снизу
+
+Display position set to Top=Отображение сверху
+Display position set to Middle=Отображение по центру
+Display position set to Bottom=Отображение снизу
